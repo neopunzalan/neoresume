@@ -1,0 +1,14 @@
+/*Author: Neo Punzalan*/
+.section-about {
+	font-size: 15px !important;
+}
+.section-follow .fa-2x {
+	margin: 5px 10px !important;
+}
+.section-footer p {
+	height: 10px !important;
+	font-size: 15px !important;
+}
+.input-field {
+	color: blue !important;
+}
